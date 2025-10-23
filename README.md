@@ -1,4 +1,4 @@
-# Sqli_Lab'ss.excalidraw File — How to Open
+# .excalidraw File — How to Open
 
 This file is a drawing saved in the format of **Excalidraw**, a **free and open-source** virtual whiteboard application.
 
