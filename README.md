@@ -1,23 +1,23 @@
-# Sqli_Lab'ss.excalidraw Dosyası — Nasıl Açılır
+# Sqli_Lab'ss.excalidraw File — How to Open
 
-Bu dosya, **ücretsiz ve açık kaynaklı** sanal beyaz tahta uygulaması **Excalidraw** formatında kaydedilmiş bir çizim dosyasıdır.
+This file is a drawing saved in the format of **Excalidraw**, a **free and open-source** virtual whiteboard application.
 
-Aşağıdaki adımları izleyerek dosyanın içeriğini kolayca görüntüleyebilirsiniz.
+Follow the steps below to easily view the file's contents.
 
 ---
 
-## Önerilen Yöntem — Excalidraw Web Uygulaması
+## Recommended Method — Excalidraw Web App
 
-1. Tarayıcınızda Excalidraw web sitesini açın:  
+1. Open the Excalidraw website in your browser:  
    [https://excalidraw.com/](https://excalidraw.com/)
 
-2. **Dosyayı yükleyin:**
-   - Sayfanın **sol üst köşesindeki menü simgesine** (genellikle üç çizgi / "hamburger" menü) tıklayın.
-   - Açılan menüden **"Open"** veya **"Open from disk"** seçeneğini bulun.
-   - Bilgisayarınızdan `Sqli_Lab'ss.excalidraw` dosyasını seçerek yükleyin.
+2. **Load the file:**
+   - Click the **menu icon** in the **top-left corner** (usually three lines / "hamburger" menu).
+   - From the menu, select **"Open"** or **"Open from disk"**.
+   - Choose the `Sqli_Lab'ss.excalidraw` file from your computer.
 
-3. Dosya yüklendikten sonra, **SQL Injection (SQLi) lab notlarına ait çizimleri ve metinleri** görebilirsiniz.
+3. Once loaded, you will see the **drawings and text** related to the **SQL Injection (SQLi) lab notes**.
 
 ---
 
-> **İpucu:** Excalidraw tamamen tarayıcı tabanlıdır; herhangi bir kurulum gerektirmez. Dosyanız `.excalidraw` uzantılıysa, doğrudan bu yöntemle açılabilir.
+> **Tip:** Excalidraw runs entirely in the browser—no installation required. If your file has the `.excalidraw` extension, this method will open it directly.
